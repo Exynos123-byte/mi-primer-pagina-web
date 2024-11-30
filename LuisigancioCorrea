@@ -1,0 +1,179 @@
+<!DOCTYPE html><!--Programa hechon por alumno de la ingenieria en sistemas computacionales-->
+<html>
+<head>
+
+    <title>Mi primera página web</title>
+    
+</head>
+<body>
+    <h1> Ingenieria en sistemas computacionales </h1>
+    <h1>Me dicen nacho :)</h1>
+    <h1>¿Que son los buques de guerra?</h1>      <!--Primer titulo-->
+    <p>
+        AutOR: Luis Igancio Correa Guzman!!
+        Los barcos de guerra: una mirada más allá de las imágenes
+        
+        Como ya mencionamos, los barcos de guerra son embarcaciones diseñadas específicamente para la guerra.
+         Su principal función es proyectar poder naval, defender intereses marítimos y participar en operaciones militares.
+        
+        Características clave de un barco de guerra:
+        
+        Armamento: Equipos ofensivos como cañones, misiles, torpedos y sistemas de defensa aérea.
+         La elección del armamento depende de la función del buque y de la amenaza a la que se enfrenta.
+        Blindaje: Protección física del buque contra impactos de proyectiles y explosiones.
+         El tipo y grosor del blindaje varía según la parte del buque que se deba proteger y el nivel de amenaza.
+        Sensores: Sistemas electrónicos que permiten detectar y rastrear objetivos en el mar, en el aire
+         y bajo el agua. Los radares, sonares y sistemas de detección electro-óptica son ejemplos de sensores comunes.
+        Sistemas de combate: Conjuntos integrados de sensores, armas y computadoras que permiten controlar y 
+        coordinar todas las capacidades de combate del buque.
+        Propulsión: Los sistemas de propulsión de los buques de guerra deben ser potentes 
+        y fiables para garantizar una alta velocidad y una gran autonomía.
+        Tipos de barcos de guerra:
+        
+        Portaaviones: Buques de gran tamaño que sirven como base para aviones de combate. Son el centro de
+         los grupos aeronavales y pueden proyectar una gran fuerza aérea en cualquier punto del globo.
+        Destructores: Buques de tamaño mediano con una amplia gama de capacidades, incluyendo defensa antiaérea, 
+        antisubmarina y antibuque. Son muy versátiles y pueden operar de forma independiente o como parte de un grupo de combate.
+        Fragatas: Buques más pequeños que los destructores, especializados en tareas de escolta y defensa antiaérea.
+         Son ideales para operaciones de menor escala y para proteger convoyes marítimos.
+        Submarinos: Buques diseñados para operar bajo el agua, equipados con misiles y torpedos. Son una plataforma
+         discreta para la vigilancia, el reconocimiento y la guerra antisubmarina.
+        Buques de asalto anfibio: Diseñados para transportar y desembarcar tropas y vehículos en operaciones anfibias. E
+        stos buques suelen estar equipados con un muelle de cubierta y pueden transportar helicópteros y vehículos aéreos no tripulados.
+        La evolución de los barcos de guerra:
+        
+        A lo largo de la historia, los barcos de guerra han evolucionado significativamente, 
+        pasando de las galeras romanas a los modernos buques de guerra equipados con tecnología de punta. 
+        La introducción de nuevas tecnologías como la pólvora, el vapor, el diesel y la energía nuclear ha revolucionado el diseño
+        y las capacidades de estos buques.
+        
+        La importancia de los barcos de guerra en la actualidad:
+        
+        Los barcos de guerra siguen siendo una pieza fundamental de la defensa nacional
+         y de la política exterior de muchos países. Desempeñan un papel crucial en la 
+         protección de las rutas marítimas, en la lucha contra la piratería y en la respuesta
+          a crisis internacionales.
+        </p>
+       
+        <br>          <!--Salto de parrafo-->
+        <img src="C:\Users\nerir\Desktop\imagebuque ruso.jpeg" alt="Mi imagen">   <!--imagen que va entere elmparrafo-->
+
+        <h2>¿Que son los portaaviones?</h2>       <!--titulo del segundo parrafo-->
+            <!--cuerpo del parrafo segundo-->
+        <p> Un portaviones​ o portaaviones​ también llamado portaeronaves​ o portaaeronaves​ es un buque 
+            de guerra capital capaz de transportar y operar aviones, helicópteros y drones. Sirve como
+             una base móvil para aeronaves que pueden entrar en combate o hacer reconocimiento.Tiene su propio
+              grupo de batalla (Fuerza de tareas) conformado por varios destructores, fragatas, cruceros, submarinos,
+               helicópteros antisubmarinos y aviones de alerta temprana que lo protegen y salvaguardan.
+
+            Durante la Primera Guerra Mundial, algunas de las grandes potencias comprendieron la 
+            importancia estratégica de disponer de aviación embarcada para enfrentarse a conflictos 
+            en territorios alejados del territorio nacional o en territorios nacionales de ultramar
+             en los que no era posible disponer de medios aéreos de importancia por motivos económicos 
+             o logísticos. La victoria naval de las fuerzas aliadas en la Segunda Guerra Mundial,​ 
+             en gran medida debida a los portaviones, convirtió a estos en los buques más importantes
+              y en el arma más poderosa de una armada, sustituyendo a los acorazados en el papel de buque insignia de una flota.
+             </p>
+
+
+            <br>          <!--Salto de parrafo-->
+            <img src="C:\Users\nerir\Desktop\Portaruso.jpeg" alt="Mi imagen">   <!--imagen que va entere elmparrafo-->
+    
+            <h3>¿Que son las fragatas?</h3>   <!--titulo del tercer parrafo-->
+            <p>
+                La fragata (proveniente del idioma italiano: fregata)​ es un buque de guerra concebido
+                 para actuar en misiones especializadas de escolta, guerra naval, antiaérea o antisubmarina, 
+                 aunque puede disponer de sistemas para actuar como buque de apoyo en otras misiones.​
+
+                El vocablo «fragata» es muy anterior a la navegación a vapor y a las escuadras de naves acorazadas de la
+                segunda mitad del siglo XIX. Desde el siglo XVII las fragatas eran buques de tres palos (con cofas y vergas),
+                ​ más ligeros que los navíos de línea que formaban el núcleo principal de las escuadras de vela. Disponían como
+                máximo de dos cubiertas y por lo normal artillada solo una o, todo lo más, con una pequeña batería en la segunda
+                y con un número total de piezas que raramente excedía de treinta, aunque en algún caso llegaba a cincuenta.
+
+               Su misión en la época de la vela era muy parecida a la del crucero protegido de finales del siglo XIX y del crucero 
+               ligero de comienzos del XX: proteger el tráfico mercante ultramarino, siendo muy importante su participación en la lucha
+               contra corsarios por su velocidad; atacar el tráfico del enemigo en caso de guerra y, en las unidades más grandes y mejor
+               preparadas, combatir en auxilio de los navíos de línea; desempeñaba una importante misión destacada en exploración por 
+               delante y por los flancos de la armada en una época en la que no existían radares ni radios para enterarse de dónde podía estar el peligro.
+
+               Desaparecidas en el último tercio del siglo XIX, durante la Segunda Guerra Mundial vuelve a denominarse de esta forma a
+               un tipo de nave algo más pequeña que el destructor, de 1500-2000 toneladas, y que, mientras el destructor crecía y asumía
+               más roles, la fragata se mantenía especializada en lucha antisubmarina, como los destructores de la Primera Guerra Mundial.
+
+              Tras la guerra se pasó a designar como fragata cualquier buque hasta el tamaño de un destructor, aunque normalmente son 
+              algo más reducidas, y especializado en una misión, aunque pueda llevar sistemas para misiones secundarias. En las flotas 
+              europeas, las fragatas se popularizaron durante la guerra fría en tareas antisubmarinas y antiaéreas para proteger la flota. 
+              Incluso los estadounidenses construyeron fragatas, por ser más baratas que los cruceros y destructores e ideales para tareas de escolta
+               de portaaviones, como la famosa clase antisubmarina Oliver Hazard Perry, diseño vendido a varias armadas del mundo. En el caso español,
+                por ejemplo, utilizado para los seis buques de la clase Santa María con capacidades de defensa antiaérea de corto y medio alcance y empleadas
+                 como escolta para el portaaviones Príncipe de Asturias.
+
+              La frontera entre fragata y destructor es bastante borrosa y muchas de las naves que en Europa se llaman fragatas
+              multifunción se podrían denominar sin exageración destructores, al igual que algunos buques catalogados como destructores, podrían 
+              ser catalogados como fragatas, siendo incluso de menor desplazamiento y capacidades que buques con esta catalogación; por tanto la 
+              nomenclatura depende en buena medida de la que decida adoptar el constructor y la armada propietaria del buque.
+
+            </p>
+
+            <br>          <!--Salto de parrafo-->
+            <img src="C:\Users\nerir\Downloads\Fragata rusa.jpeg" alt="Mi imagen">   <!--imagen que va entere elmparrafo-->
+    
+            <h4>¿Que son las corbetas?</h4> <!--Titulo del cuarto parrafo--> 
+            <p>
+                La corbeta, al igual que la fragata, es un nombre histórico que se aplicaba a un buque con el palo
+                 trinquete y mayor con velas cuadradas1​ y el palo mesana con vela cangreja y vela escandalosa. Se le 
+                 conoce también con el nombre de bric-barca.3​ Disponían de una única cubierta de combate con una única batería y 
+                 raramente más de 20 cañones.
+                 Su misión era la escolta del tráfico mercante, vigilancia litoral y a veces exploración para las escuadras de guerra.Al igual 
+                 que la fragata, desapareció a mediados del siglo XIX para volver a aparecer durante la Primera Guerra Mundial. 
+                 Gran Bretaña necesitaba luchar contra los submarinos alemanes, pero no podía permitirse el gasto que hacían los
+                 estadounidenses en destructores, y pensó en un buque de escolta más modesto pero marinero, que se limitara a acompañar
+                 a los barcos de puerto a puerto en vez de patrullar por su cuenta durante semanas. Así nació la corbeta moderna, con un 
+                 desplazamiento de 1 000 toneladas.
+ 
+                El éxito obtenido se repitió durante la Segunda Guerra Mundial, cuando los británicos construyeron más de 200 unidades de
+                una nueva generación de corbetas, la llamada Clase Flower, mejor preparadas que las anteriores, aunque manteniendo un tonelaje 
+                menor a 2 000 toneladas (1 170 t).
+
+
+                Corbeta clase Braunschweig, de la Armada alemana.
+               Las corbetas actuales están equipadas con radar y sonar, igual que los patrulleros militares, pero disponen de armamento
+               y electrónica más sofisticados que estos, que normalmente solo llevan un cañón naval de hasta 76 mm y un par de ametralladoras
+               pesadas. La corbeta cuenta al menos con un sistema lanzador de misiles antibuque y otro de misiles antiaéreos, así como morteros
+               antisubmarinos y a veces tubos lanzatorpedos. En ocasiones se denomina a la corbeta fragata ligera.
+               Las corbetas modernas pueden ser dotadas de misiles avanzados, como son las rusas con los Kalibr.
+            </p>
+
+            <br>          <!--Salto de parrafo-->
+            <img src="C:\Users\nerir\Desktop\Corbeta rusa nuevo.jpeg" alt="Mi imagen">   <!--imagen que va entere elmparrafo-->
+    
+            <h4>¿Que son los que son los destrucotores de combate?</h4> 
+            <p>
+                En terminología naval, el destructor es un buque de guerra rápido y maniobrable diseñado para proporcionar escolta 
+                a buques mayores en flotas, convoyes o grupos de batalla, y defenderlos contra enemigos menores, pero de gran potencia
+                 de fuego (originalmente buques torpederos, posteriormente submarinos y aeronaves). Fueron originalmente desarrollados en 1885
+                  por 
+                 Fernando Villaamil para la Armada Española.
+
+                Antes de la Segunda Guerra Mundial, los destructores eran buques ligeros, con escasa capacidad para operaciones oceánicas; 
+                era normal que un grupo de destructores y un buque nodriza trabajaran juntos. Durante y especialmente tras la guerra, se fueron
+                 construyendo de mayor tamaño y más potencia de fuego, hasta ser capaces de operar en solitario.
+                
+                Con la llegada del siglo XXI, los destructores se convirtieron en los mayores buques de combate de superficie, con únicamente 
+                dos naciones utilizando cruceros (los Estados Unidos y Rusia) y ningún acorazado1​ ni auténtico crucero de batalla en servicio.
+                Los modernos destructores, también conocidos como destructores lanzamisiles guiados, son equivalentes en tonelaje y bastante 
+                superiores a los cruceros de la época de la Segunda Guerra Mundial, y capaces de portar misiles nucleares.
+            </p>  
+
+
+    <img src="C:\Users\nerir\Desktop\destructore italiery.jpeg" alt="Mi imagen">    <!--imagen del parrafo secundario-->
+    <a href="C:\Users\nerir\Desktop\imagebuque ruso.jpeg">Ir a Google</a>
+
+    <body bgcolor="#5e7395"></body> <!--Aqui va el codigo del color del cuerpo-->
+
+    <a href="https://tu-pagina-temporal.com">Visita mi página</a>
+
+
+</body>
+</html>
